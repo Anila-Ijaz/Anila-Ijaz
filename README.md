@@ -13,7 +13,7 @@
 💻 **Software Engineer turned AI/ML Engineer** based in Berlin  
 🎓 Pursuing **MSc Artificial Intelligence** at Brandenburg University of Technology (BTU)  
 🔬 **AI Research Assistant** at [TU Berlin](https://www.tu.berlin) — ML for industrial anomaly detection & explainable AI  
-🏗️ **4+ years** - shipped 15+ projects across **backend systems, data pipelines, and applied ML**  
+🏗️ **4+ years** in industry - shipped 15+ projects across **backend systems, data pipelines, and automation**  
 🤖 Building with **LLMs, RAG, agentic pipelines**, and clean, modular architecture  
 
 > Production-grade software engineering meets cutting-edge AI research.
