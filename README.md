@@ -40,7 +40,23 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"/>
 </p>
-
+## Tech Stack
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow" height="48"/></a>
+</p>
 <table align="center">
   <tr>
     <td align="right"><b>💻 Languages</b></td>
