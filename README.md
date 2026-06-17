@@ -41,8 +41,7 @@
     <td>Python · C# · TypeScript · JavaScript · SQL</td>
     <td align="right"><b>🤖 AI / ML</b></td>
     <td>PyTorch · scikit-learn · LLMs · RAG · SHAP · YOLOv8</td>
-    <td align="right"><b>🎯 Practices</b></td>
-    <td>Clean Code · Design Patterns · Unit Testing · Refactoring</td>
+    
   </tr>
   <tr>
     <td align="right"><b>🌐 Web</b></td>
@@ -52,9 +51,9 @@
   </tr>
   <tr>
     <td align="right"><b>🛠️ Workflow</b></td>
-    <td>Git · GH Actions · Docker · Agile / Scrum</td>
-    <td align="right"><b>☁️ Deploy</b></td>
-    <td>AWS EC2 · Render</td>
+    <td>Git · GH Actions · Docker · AWS EC2 · Render · Agile / Scrum</td>
+    <td align="right"><b>🎯 Practices</b></td>
+    <td>Clean Code · Design Patterns · Unit Testing · Refactoring</td>
   </tr>
 </table>
 
